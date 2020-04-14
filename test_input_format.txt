@@ -1,0 +1,1 @@
+./shapefinder test_img/black_white_rect.png -s rectangle -c red -o output_image.ppm
